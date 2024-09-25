@@ -65,3 +65,5 @@ const adder = (num1, num2) => {
 };
 
 console.log(adder(2, 3));
+
+//Arguments er de du sender(2, 3 i eksemplet over), mens parameters er de du tar imot(num 1, num2 i eksemplet over). Dessverre bruker folk de litt om hverandre så vær obs.
